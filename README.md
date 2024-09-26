@@ -1,22 +1,20 @@
-Fala Devs, beleza? ✌🏻️ 
+# Fala Devs, beleza? ✌🏻️ 
 
  
 
-Acompanha comigo a apresentação desse projeto de Gerador de Senha, bem prático e eficiente, focando na elaboração logica da estrutura do código.  
+### Acompanha comigo a apresentação desse projeto de Gerador de Senha, bem prático e eficiente, focando na elaboração logica da estrutura do código.  
 
  
 
-Gerador de Senhas 🔑  
+## Gerador de Senhas 🔑  
 
   
 
-Um gerador de senhas simples e eficiente, desenvolvido em JavaScript, que permite criar senhas seguras e aleatórias para proteger suas contas. 
+#### Um gerador de senhas simples e eficiente, desenvolvido em JavaScript, que permite criar senhas seguras e aleatórias para proteger suas contas. 
 
  
 
- Funcionalidades ⚙ 
-
-  
+## Funcionalidades ⚙ 
 
 - Geração de senhas aleatórias com diferentes níveis de complexidade. 
 
@@ -26,9 +24,7 @@ Um gerador de senhas simples e eficiente, desenvolvido em JavaScript, que permit
 
   
 
- Tecnologias Utilizadas 💻  
-
-  
+## Tecnologias Utilizadas 💻  
 
 - JavaScript 
 
